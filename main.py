@@ -711,5 +711,5 @@ client.add_cog(Reactions_re(client))
 
 
 keep_alive()
-client.run('ODgyNjE4Mjc0MjI1OTc5NDIy.G40dZy.w-7sPsZjIaf87zdyxi7689vif1k579QuXB24Oo')
+client.run('')
 
